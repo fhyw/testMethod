@@ -1,0 +1,21 @@
+*.iml
+*/*.iml
+.DS_Store
+*.class
+.idea/
+
+*.prefs
+*.ipr
+*.iws
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/target
+/.settings
+/.classpath
+/.project
+
+build.properties
